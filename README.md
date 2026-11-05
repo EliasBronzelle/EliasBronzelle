@@ -17,6 +17,6 @@
 <a href="https://instagram.com/eliasbronzelle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <img src="https://img.shields.io/badge/Discord-eliasbit-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 
-<sub>🎸 tocando guitarra e ajustando timbres entre um commit e outro</sub>
+<sub>🎸 Timbrando a vida, assim ela sempre soará melhor</sub>
 
 </div>
