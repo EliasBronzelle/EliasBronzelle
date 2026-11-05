@@ -107,5 +107,5 @@ for i, c in enumerate(cols):
 o.append(f'<text x="{PAD}" y="{bottom_prompt_y}"><tspan class="p">{USER.lower()}@github</tspan><tspan class="d">:</tspan><tspan class="k">~</tspan><tspan class="c">$ </tspan>'
          f'<tspan fill="#e6edf3">█<animate attributeName="fill-opacity" values="1;0;1" keyTimes="0;0.5;1" dur="1.1s" calcMode="discrete" repeatCount="indefinite"/></tspan></text>')
 o.append('</svg>')
-open("neofetch.svg", "w", encoding="utf-8").write("\n".join(o))
+open("neofetch-anim.svg", "w", encoding="utf-8").write("\n".join(o))
 print("ok", W, H, "idade", age)
