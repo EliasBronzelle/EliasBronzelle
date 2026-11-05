@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="neofetch.svg" alt="EliasBronzelle neofetch"/>
+<img src="neofetch.svg?v=2" alt="EliasBronzelle neofetch"/>
 
 <br/>
 
